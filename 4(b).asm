@@ -1,6 +1,6 @@
  
 mov CX,80
-
+mov AH,2
 
 CSE: 
 mov DL,'*' 
