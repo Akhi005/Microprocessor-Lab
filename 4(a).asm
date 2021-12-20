@@ -1,0 +1,5 @@
+Mov CX,50
+MOV DX,1
+MOV AX,1
+L1: ADD AX,4
+LOOP  L1
